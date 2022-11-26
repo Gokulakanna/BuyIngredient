@@ -17,9 +17,7 @@ public class BuyIngredient
 	{
 		System.out.println("---Buying ingredients---");
 		Ingredient biscuit = new Ingredient();
-		biscuit.buyItem(10);
-		biscuit.availQuantity();
-		biscuit.buyItem(10);
+		biscuit.buyItem(100);
 		biscuit.availQuantity();
 	}
 }
