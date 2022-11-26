@@ -19,5 +19,7 @@ public class BuyIngredient
 		Ingredient biscuit = new Ingredient();
 		biscuit.buyItem(10);
 		biscuit.availQuantity();
+		biscuit.buyItem(10);
+		biscuit.availQuantity();
 	}
 }
