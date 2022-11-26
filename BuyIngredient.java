@@ -1,4 +1,4 @@
-Class Ingredient
+class Ingredient
 {
 	private int itemQuantity;
 
